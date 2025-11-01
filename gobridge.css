@@ -235,7 +235,7 @@ footer {
 
 
 /* ---------- Header Top Layout ---------- */
-/* Push search box to top-right */
+
 header {
   position: relative;
   text-align: center;
@@ -323,6 +323,7 @@ header {
     background: teal;
     color: white;
 }
+
 
 
 
