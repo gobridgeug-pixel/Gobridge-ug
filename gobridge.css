@@ -294,7 +294,7 @@ header {
     cursor: pointer;
 }
 
-/* Dropdown Menu - hidden by default */
+/* Dropdown Menu  */
 .dropdown-menu {
     display: none;
     flex-direction: column;
@@ -323,6 +323,7 @@ header {
     background: teal;
     color: white;
 }
+
 
 
 
